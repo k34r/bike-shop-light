@@ -28,4 +28,3 @@ export const useCardsStore = defineStore('cards', () => {
 
   return { cards, getCardById, favoriteCards, toggleFavorite }
 })
-

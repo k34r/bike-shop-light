@@ -1,10 +1,8 @@
 <template>
-    <div class="max-w-[1600px] mx-auto">
-        <Header />
-    </div>
+  <div class="max-w-[1600px] mx-auto">
+    <Header />
+    <NuxtPage />
+  </div>
 </template>
 
-
-<style scoped>
-
-</style>
+<style scoped></style>
